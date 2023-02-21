@@ -2,15 +2,14 @@ function desafios(section) {
   section.innerHTML = 
     `<header>
       <h4>Projetos</h4>
-      <h2>Desafio 21 dias de código</h2>
+      <h2>Projeto em desenvolvimento</h2>
       <p>
-        Desafio da
-        <a href="https://rocketseat.com.br" target="_blank">Rocketseat</a>
-        criado com o propósito de prática diária em 21 dias consecutivos com
-        vários pequenos projetos diferentes.
+        Desenvolvimento
+        <a href="Link do projeto" target="_blank">desenvolvimento</a>
+        Meu projeto ainda está sendo desenvolvimento.
       </p>
       <a
-        href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat"
+        href="Link de meu respositorio futuro do projeto"
         target="_blank"
       >
         <svg
