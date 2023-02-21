@@ -5,7 +5,7 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-        <h3>Meu Portifólio</h3>
+        <h3>Meu Portfólio</h3>
         <div class="img-wrapper">
           <img src="./assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
           <div class="buttons">
@@ -39,7 +39,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Atual site qual desenvolvi para apresentar a mim e meus projetos.
+            Atual site qual desenvolvi para apresentar a mim e a meus projetos.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
