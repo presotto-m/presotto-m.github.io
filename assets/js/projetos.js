@@ -39,8 +39,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            O presente site que desenvolvi para apresentar a mim e meus
-            projetos.
+            Atual site qual desenvolvi para apresentar a mim e meus projetos.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
@@ -141,8 +140,6 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
-          <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
         <h3>Em breve...</h3>
@@ -176,8 +173,6 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Projeto de site desenvolvido na Next Level Week Return da Rocketseat.</p>
-          <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
         <h3>Em breve...</h3>
