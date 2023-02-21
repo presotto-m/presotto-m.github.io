@@ -8,7 +8,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar, como desenvolvedor DevOps Engineer.
+Projeto feito no intuito de me apresentar, como DevOps Engineer.
 
 ## 🤯 O site é composto por:
 
@@ -46,7 +46,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://avatars.githubusercontent.com/u/83012707?v=4" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/presotto-m">Matheus Presotto.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/presotto-m">Matheus Presotto.</a>
     </td>
   </tr>
 </table>
