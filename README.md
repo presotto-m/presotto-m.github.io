@@ -1,6 +1,6 @@
 <h1 align="center">Portfólio - Matheus Presotto 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
+![Imagem do projeto finalizado](assets/images/projects/portfolio.png)
 
 <h4 align="center"><a href="https://matheuspresotto.vercel.app">Confira o projeto aqui</a></h4>
 
