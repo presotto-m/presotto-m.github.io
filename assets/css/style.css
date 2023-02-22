@@ -238,11 +238,11 @@ body nav#navigation .social-links li:nth-child(4) svg:hover path:nth-child(2) {
 }
 
 #contact li path,
-#navigation button.open-menu path[stroke*="#00856F"] {
+#navigation button.open-menu path[stroke*="#4682B4"] {
   stroke: var(--primary-color);
 }
 
-#navigation.scroll button.open-menu path[stroke*="#00856F"] {
+#navigation.scroll button.open-menu path[stroke*="#4682B4"] {
   stroke: var(--paragraph-2);
 }
 
