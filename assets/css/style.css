@@ -905,6 +905,7 @@ body.light-mode #home img#notebook-2-white {
 
 body.light-mode #contact .col-b::after {
   background-color: grey;
+  filter: blur(10px);
 }
 
 /*===== FOOTER ===============================================*/
