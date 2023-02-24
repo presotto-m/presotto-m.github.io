@@ -9,8 +9,8 @@
 }
 
 :root {
-  --hue: 230;
-  --primary-color: hsl(var(--hue), 70%, 40%);
+  --hue: 45;
+  --primary-color: hsl(var(--hue), 29%, 97%);
   --primary-hover: hsl(var(--hue), 92%, 33%);
   --secundary-color: hsl(0, 0%, 5%);
   --third-color: hsla(0, 0%, 100%, 0.1);
